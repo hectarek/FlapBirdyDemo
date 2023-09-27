@@ -1,4 +1,4 @@
-# Hector's Flappy Bird
+# Hector's Flap Birdy
 
 ## About the Game
 This game is a clone of the popular Flappy Bird game, built from scratch using Unity. This version captures the same gameplay mechanics: flap the bird and avoid the pipes!
@@ -14,7 +14,7 @@ This game is a clone of the popular Flappy Bird game, built from scratch using U
 - Web browser (HTML5 compatible)
 
 ## How to Run the Game
-Simply click [this link](your-game-link-here) to play the game in your web browser.
+Simply click [this link](https://hectarek13.itch.io/hectors-flap-birdy) to play the game in your web browser.
 
 ## Credits
 - Game developed by Hector Gonzalez
